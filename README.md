@@ -3,7 +3,6 @@ Task manager
 
 ## files
 [Khaldon mockup](Task Manager Project.pdf)
-
 [Metting board note](IMG_20170731_140911.jpg)
 
 ## TODO
