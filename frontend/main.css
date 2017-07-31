@@ -1,7 +1,7 @@
-ul.task-list {
+#list {
   color: red
 }
 
-ul.done-task-list {
+#done-list {
   color: green
 }

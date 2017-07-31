@@ -4,21 +4,22 @@
 <head>
   <title>kgdone</title>
   <link rel="stylesheet" href="main.css">
+  <script src="main.js"></script>
 </head>
 
 <body>
   <!-- Add task -->
-  <form>
-    <input type="text" name="task"></input>
-    <input type="button" value="+"></input>
+  <form id="form">
+    <input id="text" type="text" name="task" />
+    <input type="button" value="+" onclick="addTaskClicked()" />
   </form>
   <!-- task -->
-  <ul class="task-list">
+  <ul id="list">
     <li>Run till die</li>
     <li>Sing in the morning</li>
   </ul>
   <!-- task done -->
-  <ul class="done-task-list">
+  <ul id="done-list">
     <li>Eat a lot</li>
     <li>Start a crazy project that we'll make us work from abroad</li>
   </ul>
