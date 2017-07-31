@@ -5,7 +5,7 @@ Task manager
 ##### Goal: Create a basic task list
 
 ##### User stories:
-- As a user I want to connect to [http://kgdone.gurvanhenry.com/gkdone](http://kgdone.gurvanhenry.com) to see my task list (todo and done)
+- As a user I want to connect to [http://kgdone.gurvanhenry.com](http://kgdone.gurvanhenry.com) to see my task list (todo and done)
 - As a user I want to add a task to make it visible in the task list
 - As a user I want to mark as done an existing task
 
