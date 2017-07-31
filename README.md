@@ -1,14 +1,26 @@
 # kgdone
 Task manager
 
-## files
-- Khaldon mockup => Task Manager Project.pdf
-- Metting board note =>IMG_20170731_140911.jpg
+## sprint #1
+##### Goal: Create a basic task list
 
-## TODO
-- define sprint #1
+##### User stories:
+- As a user I want to connect to [http://www.gurvanhenry.com/gkdone](http://www.gurvanhenry.com/gkdone) to see my task list (todo and done)
+- As a user I want to add a task to make it visible in the task list
+- As a user I want to mark as done an existing task
+
+##### Out of scope:
+- login page
+- task affectation
+- delete task
+
+## Next ToDo
 - develop sprint #1
 - enjoy
 
-## Note
-- IDEA : do the frontend and save data locally to start (then develop BE)
+## Notes
+- IDEA: develop the frontend with no backend first (save data locally) 
+
+## docs files
+- [Khaldon mockup](docs/Khaldon - mockup 20170731.pdf)
+- [Meeting board note](docs/meeting board notes 20170731.jpg)
