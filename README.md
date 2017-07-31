@@ -19,8 +19,14 @@ Task manager
 - enjoy
 
 ## Notes
-- IDEA: develop the frontend with no backend first (save data locally) 
+- IDEA: develop the frontend with no backend first (save data locally)
 
 ## docs files
 - [Khaldon mockup](docs/Khaldon - mockup 20170731.pdf)
 - [Meeting board note](docs/meeting board notes 20170731.jpg)
+
+## Future
+- V1 : full app from scratch
+- V1.1 : full app that use AIQ
+- V2 : based on jira gadgets
+- V3 : same frontend but using jira public API
